@@ -7,6 +7,8 @@ Our goal is to explore the vast potential of generative AI and share our creatio
 # Project List:
 ## **1: Image-to-Prompt Generator**
 
+![544749376_122176376282461193_4546564798450919423_n](https://github.com/user-attachments/assets/27557458-8a27-4069-b34f-268c733b664e)
+
 Our first showcase is a powerful tool for artists, designers, and AI enthusiasts. The Image-to-Prompt Generator analyzes any uploaded image and intelligently generates multiple, platform-specific prompts for various AI art models.
 
 ### **✨ Key Features:**
@@ -26,6 +28,8 @@ Our first showcase is a powerful tool for artists, designers, and AI enthusiasts
 ### **Local Usage**
 
 This application is a single, self-contained HTML file, making it incredibly easy to run locally.
+
+![544903143_122176377572461193_5244932766573900513_n](https://github.com/user-attachments/assets/16ccd82f-6f2a-4dee-8912-1fa0f06c1a02)
 
 1. **Download the File**: Go to the image-to-prompt-generator folder and download the image-to-prompt-tool.html file.  
 2. **Get a Gemini API Key**: If you don't have one, you can get it for free from [**Google AI Studio**](https://aistudio.google.com/app/apikey).  
