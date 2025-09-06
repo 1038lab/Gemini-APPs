@@ -2,7 +2,7 @@
 
 Welcome to the AILab showcase of creative and useful applications built with the Google Gemini API. This repository serves as a collection of our projects and a source of inspiration for other developers.
 
-## **Featured App: Image-to-Prompt Generator**
+## **1: Image-to-Prompt Generator**
 
 Our first featured application is a powerful tool for artists, designers, and AI enthusiasts.
 
