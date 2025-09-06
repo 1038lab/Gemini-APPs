@@ -23,7 +23,7 @@ Our first showcase is a powerful tool for artists, designers, and AI enthusiasts
 
 ### **Online**
 
-* **Live Demo**: [Image-to-Prompt Generator](https://gemini.google.com/share/4b65455e5922)
+* **Live Demo**: [Image-to-Prompt Generator](https://g.co/gemini/share/9eee64b3f949)
 
 ### **Local Usage**
 
